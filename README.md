@@ -69,6 +69,14 @@ x_train = sc_x.fit_transform(x_train)
 x_test = sc_x.transform(x_test)
 print(x_train)
 print(x_test)
+#   OUTPUT
+<img width="357" height="246" alt="image" src="https://github.com/user-attachments/assets/dccfd283-a353-4876-9b38-4e688fea0eba" />
+<img width="422" height="327" alt="image" src="https://github.com/user-attachments/assets/9080d3d8-a18f-4e84-b9d5-8906c5bd68ac" />
+
+<img width="280" height="522" alt="image" src="https://github.com/user-attachments/assets/cb213e1a-11ec-4c77-acfa-0452c8c857b0" />
+<img width="412" height="251" alt="image" src="https://github.com/user-attachments/assets/7737e12e-bf75-418d-9cc5-49ec045e2ba7" />
+<img width="281" height="311" alt="image" src="https://github.com/user-attachments/assets/7a7dc868-abaa-4ea3-8df2-8637024c83c5" />
+<img width="440" height="291" alt="image" src="https://github.com/user-attachments/assets/c56d9cf9-14b7-49f5-97bd-ee0449c7bacc" />
 
 ## Conclusion
 Thus, the given dataset was successfully preprocessed by handling missing values, encoding categorical variables, splitting the data into training and testing sets, and performing feature scaling.
